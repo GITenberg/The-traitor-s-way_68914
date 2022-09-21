@@ -1,0 +1,37 @@
+_repo: The-traitor-s-way_68914
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gilbert, W. B., active 1902
+    alias: Gilbert, W. B.
+    gutenberg_agent_id: '26412'
+    url: http://www.gutenberg.org/2009/agents/26412
+creator:
+  author:
+    agent_name: Levett Yeats, S. (Sidney)
+    aliases:
+    - Levett Yeats, Sidney
+    - Yeats, S. Levett
+    - Levett-Yeats, S. (Sidney)
+    gutenberg_agent_id: '9142'
+    url: http://www.gutenberg.org/2009/agents/9142
+description: ''
+gutenberg_issued: '2022-09-05'
+identifiers:
+  gutenberg: '68914'
+language: en
+pgterms:marc904: https://archive.org/details/traitorsway00yeagoog/page/n342/mode/2up
+pgterms:marc905: 20210711182441levettyeat
+pgterms:marc906: '1901'
+pgterms:marc907: us
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  This file was produced from images generously made available by the New York Public
+  Library's Digital Collections.
+publication_note: United States :Frederick A. Stokes Company,1901.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The traitor's way
+url: http://www.gutenberg.org/ebooks/68914
