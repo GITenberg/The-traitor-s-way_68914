@@ -6,6 +6,9 @@ contributor:
     alias: Gilbert, W. B.
     gutenberg_agent_id: '26412'
     url: http://www.gutenberg.org/2009/agents/26412
+covers:
+- cover_type: archival
+  image_path: 68914-h/images/cover.jpg
 creator:
   author:
     agent_name: Levett Yeats, S. (Sidney)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '9142'
     url: http://www.gutenberg.org/2009/agents/9142
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68914#The-traitor-s-way
 gutenberg_issued: '2022-09-05'
 identifiers:
   gutenberg: '68914'
